@@ -8,8 +8,8 @@ public class Main {
         String opcion;
         do {
             System.out.println("Menú:");
-            System.out.println("1. Añadir vehículo");
-            System.out.println("2. Mostrar vehículos");
+            System.out.println("1. Añadir vehículo ");
+            System.out.println("2. Mostrar vehículos ");
             System.out.println("3. Salir");
             System.out.print("Seleccione una opción: ");
             opcion = scanner.nextLine();
